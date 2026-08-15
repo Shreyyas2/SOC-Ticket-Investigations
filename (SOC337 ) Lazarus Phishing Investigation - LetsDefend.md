@@ -1,4 +1,4 @@
-# SOC Ticket Investigation: SOC337 : Lazarus Phishing Campaign Detected (APT38)
+# SOC Ticket Investigation (SOC337) : Lazarus Phishing Campaign Detected (APT38)
 
 **Event ID:** 315
 **Event Time:** 2025-03-06T07:15:00+03:00
