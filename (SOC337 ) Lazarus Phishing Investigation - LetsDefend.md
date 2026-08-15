@@ -35,7 +35,7 @@ An email was flagged by the SIEM matching a known Lazarus Group (APT38) phishing
 
 **True Positive : Attempted Phishing, No Successful Compromise.**
 
-The email itself is assessed as a genuine, targeted phishing attempt matching a known threat actor's tactics (sender impersonation, social engineering pretext, and a MITRE mapped attack chain designed to lead to script execution and further payload delivery). However, endpoint evidence shows no indication that the recipient interacted with any malicious link or attachment — no anomalous child processes, script execution, or file downloads were observed following the email's arrival.
+The email itself is assessed as a genuine, targeted phishing attempt matching a known threat actor's tactics (sender impersonation, social engineering pretext, and a MITRE mapped attack chain designed to lead to script execution and further payload delivery). However, endpoint evidence shows no indication that the recipient interacted with any malicious link or attachment, no anomalous child processes, script execution, or file downloads were observed following the email's arrival.
 
 ## Recommended Response
 
